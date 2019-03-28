@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event: one
+  category: one
+  price: 
+  price: 
+  order: one
+
+two:
+  event: two
+  category: two
+  price: 
+  price: 
+  order: two
